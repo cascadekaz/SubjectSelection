@@ -1,6 +1,3 @@
-
-//the code that originally worked
-
 #include <stdio.h>
 #include <string.h>
 
